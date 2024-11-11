@@ -207,4 +207,4 @@ with st.expander("About this visualization"):
 
 # Footer
 st.markdown("---")
-st.markdown("Built with Streamlit, PyDeck, and Nominatim geocoding")
+st.markdown("Built by Rahul Kumar for ZoningLLM")
